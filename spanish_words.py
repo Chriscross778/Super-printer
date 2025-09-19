@@ -1,0 +1,7 @@
+print("hola")
+print("adios")
+print("amogos")
+print("nos vemos")
+print("comer")
+print("correr")
+print("tomar")
